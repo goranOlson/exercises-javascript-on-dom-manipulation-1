@@ -11,7 +11,7 @@ Use the appropriate methods and properties available to you to get the correct d
 1. What is the name of the recipe?
 2. What HTML tag is used to display the Recipe name?
 3. What is the font size of the paragraph tag with the class _"description"_.
-4. What is the value of the `alt` atrribute on the image?
+4. What is the value of the `alt` attribute on the image?
 5. What is the dimensions and the url of the image? Create an object that looks like this, and log it to the console:
 
 ```js
